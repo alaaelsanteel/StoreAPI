@@ -9,8 +9,8 @@
  * sqlparse==0.4.3
  * tzdata==2022.6
  #### Project Team
-1)Amir Fathi 
-2)Eslam Rageh 
-3)Omnia Saad 
-4)Alaa Fathi 
-5)Basmala Ahmed
+1) Alaa Fathy Elsanteel
+2) Amir Fathi 
+3) Eslam Rageh 
+4) Omnia Saad 
+5) Basmala Ahmed
